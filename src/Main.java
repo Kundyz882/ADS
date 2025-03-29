@@ -28,9 +28,7 @@ public class Main {
  * Time complexity: O(n), where n is the number of elements in the array.
  * The recursive algorithm compares each element with the minimum of the remaining elements,
  * resulting in linear time complexity.
- *
- * Space complexity: O(n) due to recursive calls stored on the call stack.
- *
+
  * @param n The number of elements in the array.
  * @param arr The array from which the minimum value is to be found.
  * @return The minimum element in the given array.
